@@ -1,0 +1,8 @@
+Nama Aplikasi : Text Editor PWA
+
+Penjelasan :
+1. File manifest.json pada folder public merupakan file manifest json pada aplikasi Text Editor PWA
+2. Pada file index.html baris 24 dilakukan attach file manifest.json agar file manifest terbaca oleh file index
+3. Pada file js/lib/install.js merupakan file trigger agar aplikasi Text Editor PWA dapat diinstall pada device
+4. Pada baris 32-34 file main.js merupakan fungsi pada button install untuk memunculkan promt install pada aplikasi Text Editor PWA
+5. Untuk file /js/lib/action.js merupakan file yang berfungsi untuk melakukan masing-masing fitur pada button pojok kanan bawah
